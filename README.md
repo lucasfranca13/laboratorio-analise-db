@@ -37,8 +37,10 @@ Diagramas
 
 Os modelos conceitual e lógico do banco de dados estão disponíveis na pasta:
 
-/diagramas
+## Diagramas
 
-Modelo Conceitual (Entidade-Relacionamento)
+### Modelo Conceitual
+![Modelo Conceitual](diagramas/Projeto_Conceitual.png)
 
-Modelo Lógico do Banco de Dados
+### Modelo Lógico
+![Modelo Lógico](diagramas/modelagem_lógica.png)
