@@ -1,7 +1,3 @@
--- Trabalho - laboratório Análise
--- Nome: Paulo Ricardo
--- RA: 72401036
-
 -- Criação das Tabelas
 CREATE TABLE CLIENTE (
     id_cliente          NUMBER(10)      PRIMARY KEY,
